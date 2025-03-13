@@ -4,6 +4,10 @@ body {
   color: #13073F;
 }
 
+#site-logo {
+  font-size: 36px;
+}
+
 button {
   display: flex;
   cursor: pointer;
@@ -95,6 +99,8 @@ h2,
 h3 {
   font-weight: normal;
 }
+
+h1 {font-size: 44px;}
 
 .hamburger {
   position: absolute;
